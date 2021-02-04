@@ -1,6 +1,6 @@
 ## Description
 
-This project demonstrates how to build simple calculator application in Flutter.
+This project demonstrates how to build simple calculator application in Flutter
 
 ## Student Information
 
