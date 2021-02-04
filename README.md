@@ -20,4 +20,4 @@ To run this project, follow these steps:
 
 Screenshots
 
-<img height="480px" src="./before.png"> <img height="480px" src="./after.png"> 
+<img height="480px" src="./before.png"> <img height="480px" src="./after.png"> <img height="480px" src="./res.png"> 
