@@ -16,8 +16,8 @@ To run this project, follow these steps:
 - Run command `flutter doctor` to list the connected devices to your computer
 - Run command `flutter run` to start the project
 
-## Images
+## Screenshots
 
-![Calculator Before](./before.png)
+Screenshots
 
-
+<img height="480px" src="./before.png"> <img height="480px" src="./after.png"> 
