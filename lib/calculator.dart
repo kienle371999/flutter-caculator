@@ -39,7 +39,7 @@ class _CalculatorState extends State<Calculator> {
 		Size screen = MediaQuery.of(context).size;
 
 		double buttonSize = screen.width / 4;
-		double displayHeight = screen.height - (buttonSize * 4.5) - (buttonSize);
+		double displayHeight = screen.height - (buttonSize * 5.5);
 	
 		return Scaffold(
 			backgroundColor: Color.fromARGB(196, 32, 64, 96),
