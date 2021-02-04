@@ -13,7 +13,7 @@ ID: 17021278
 To run this project, follow these steps:
 
 - Clone this project
-- Run command `flutter doctor` to list the connected devices to your computer
+- Run command `flutter doctor` to list the devices connected to your computer
 - Run command `flutter run` to start the project
 
 ## Screenshots
